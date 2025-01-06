@@ -1,0 +1,7 @@
+1. Run XAMPP.
+2. Creat a database called code_playground
+3. Import given sql file into that database (File Locaton: Code_Playground\Database)
+4. Copy and paste the Code_Playground folder to C:\xampp\htdocs
+5. Go to a browser and type http://localhost/code_playground/
+• Admin: user name: admin, password: 12345
+  
